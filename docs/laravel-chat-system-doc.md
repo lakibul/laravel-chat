@@ -90,4 +90,4 @@ routes/
 
 ---
 
-For more details, see the README.md or contact the developer.
+For more details, see the README.md or contact with me: lakibul.cse@gmail.com
